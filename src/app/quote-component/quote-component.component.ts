@@ -9,9 +9,9 @@ import { Component, OnInit} from '@angular/core';
 export class QuoteComponentComponent implements OnInit {
 
   arrayQuotes:Quote[] = [
-    new Quote('You only live ONCE, so make the most out of it', 'Aaron Ekal', 'Nalah Sumbua'),
-    new Quote('You get what you give. So give more than you can give', 'Bugs Bunny', 'Elmer Fudd'),
-    new Quote('Understand that coding is not knowing what you are knowing not what you know', 'Pogrey kiogothe', 'Prof Maji Marefu'),
+    new Quote('You only live ONCE, so make the most out of it.', 'Aaron Ekal', 'Nalah Sumbua'),
+    new Quote('You get what you give. So give more than you can give.', 'Bugs Bunny', 'Elmer Fudd'),
+    new Quote('Understand that coding is not knowing what you are knowing not what you know.', 'Pogrey kiogothe', 'Prof Maji Marefu'),
     new Quote('Once you enter the gate of no gate, you will find what you are looking.', 'Anonymous', 'Chinese Proverb')
   ]
 

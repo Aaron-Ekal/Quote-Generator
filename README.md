@@ -14,7 +14,7 @@ We all need words of motivation and encouragement. Some of us know words of enco
 
 - You need a good perfoming computer/laptop: Core i3 or equivalent with high resolution display
 - Clone from Github
-- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13..1.
+- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 - Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 - All done!
 - Easy Peasy😉

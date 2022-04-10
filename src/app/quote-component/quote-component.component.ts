@@ -37,7 +37,6 @@ export class QuoteComponentComponent implements OnInit {
     this.arrayQuotes.push(quoteNew)
   }
 
-
   constructor() { }
 
   ngOnInit(): void {

@@ -1,14 +1,13 @@
-# Quote Generator
+# Quote App
 
-#### Quote generator is a platform that allows users to post quotes and react on posted quotes with likes or dislikes, August 2021
+#### Quote generator is a platform that allows users to post quotes and react on posted quotes with likes or dislikes.
 
-#### By **Kelvin Gitahi**
+#### By **Aaron Ekal**
 
 ## Description
 
 We all need words of motivation and encouragement. Some of us know words of encouragement and need to tell the world. Quotes for all, including you<br> <strong>This is where you belong</strong>.
 
-![Landing page screenshot](./src/assets/img/quote-generator.png "Morning Brew Quotes")
 
 ## Setup/Installation Requirements
 
@@ -18,7 +17,7 @@ We all need words of motivation and encouragement. Some of us know words of enco
 - Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 - All done!
 - Easy Peasy😉
-- Alternatively, go [here](https://kwathuta.github.io/pizza-store/)
+- Alternatively, go [here](https://github.com/Aaron-Ekal/pizza-ip/)
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
@@ -38,9 +37,9 @@ This site was made entirely using:
 
 ## Support and contact details
 
-I'd love to chat! Ping me on [Twitter](https://twitter.com/kevocb) should any issues arise, or just say Hi!
+I'd love to chat! Ping me on [Twitter](https://twitter.com/aaronekal) should any issues arise, or just say Hi!
 
 ### License
 
 _MIT Licence_
-Copyright &copy; 2021 **Kelvin Gitahi**
+Copyright &copy; 2021 **Aaron Ekal**
